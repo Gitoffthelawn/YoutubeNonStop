@@ -8,7 +8,7 @@ Available for:
 [Chrome](https://chrome.google.com/webstore/detail/youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid) <a href="https://chrome.google.com/webstore/detail/youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid">
 <img src="https://github.com/lawfx/YoutubeNonStop/blob/master/images/chrome_logo.png" width="25" height="25" /></a>
 
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/youtube-nonstop/) <a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-nonstop/">
+[Firefox](https://addons.mozilla.org/firefox/addon/youtube-nonstop/) <a href="https://addons.mozilla.org/firefox/addon/youtube-nonstop/">
 <img src="https://github.com/lawfx/YoutubeNonStop/blob/master/images/firefox_logo.png" width="25" height="25" /></a> (see below)
 
 [Edge](https://microsoftedge.microsoft.com/addons/detail/youtube-nonstop/lgakodbaikpcnfpmanpenlgaghdaifbm) <a href="https://microsoftedge.microsoft.com/addons/detail/youtube-nonstop/lgakodbaikpcnfpmanpenlgaghdaifbm">
@@ -20,9 +20,9 @@ For Opera install this extension first https://addons.opera.com/en/extensions/de
 
 In your Firefox, media keys may be disabled. To enable the functionality:
 1. Navigate to about:config from your address bar
-2. If there is a warning message just confirm that you understand the risks
-3. Search for media.hardwaremediakeys.enabled and set to TRUE
-3. Search for dom.media.mediasession.enabled and set to TRUE
+2. If there is a warning message, just confirm that you understand the risks
+3. Search for `media.hardwaremediakeys.enabled` and set to `TRUE`
+3. Search for `dom.media.mediasession.enabled` and set to `TRUE`
 4. Restart your browser
 
 ---
